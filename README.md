@@ -1,6 +1,6 @@
-**💡 Customer Segmentation & Marketing Strategy Analysis**
+# Customer Segmentation & Marketing Strategy Analysis**
 
-**📌 Project Overview:**
+## 📌 Project Overview:**
 - **Description:** This project performs an unsupervised learning analysis on a marketing campaign dataset to segment customers into distinct personas using PCA and Agglomerative Clustering. The goal is to derive actionable marketing strategies to improve campaign efficiency and revenue.
 - **Outcome:** Four customer segments with recommended marketing strategies for each.
 
@@ -110,3 +110,4 @@ python analysis.py
 **📬 Contact**
 - **Name:** Loay Ayman
 - **🔗 LinkedIn:** linkedin.com/in/loayayman 
+
