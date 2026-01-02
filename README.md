@@ -92,7 +92,7 @@ python analysis.py
 **Visualizations Included**
 - **3D Scatter Plot:** Visualizes 3 PCA components colored by cluster.
 <img width="645" height="658" alt="The Plot of The Clusters" src="https://github.com/user-attachments/assets/29c6a05b-11e3-4504-9950-5825c8e4dbfa" />
---
+
 - **Elbow Plot:** Shows explained variance / clustering inertia to validate cluster count.
 <img width="789" height="516" alt="Elbow Method to Determine the Number of Clusters to be Formed" src="https://github.com/user-attachments/assets/71de50e8-e810-4342-8655-55e721c81449" />
 
@@ -118,6 +118,7 @@ python analysis.py
 **Contact**
 - **Name:** Loay Ayman
 - **🔗 LinkedIn:** linkedin.com/in/loayayman 
+
 
 
 
