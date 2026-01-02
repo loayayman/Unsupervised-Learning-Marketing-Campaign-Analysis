@@ -1,10 +1,10 @@
 # Customer Segmentation & Marketing Strategy Analysis**
 
-## 📌 Project Overview:**
+## Project Overview:
 - **Description:** This project performs an unsupervised learning analysis on a marketing campaign dataset to segment customers into distinct personas using PCA and Agglomerative Clustering. The goal is to derive actionable marketing strategies to improve campaign efficiency and revenue.
 - **Outcome:** Four customer segments with recommended marketing strategies for each.
 
-**🛠️ Technologies & Libraries:**
+## Technologies & Libraries:**
 - **Language:** `Python 3.x`
 - **Data Manipulation:** `pandas`, `numpy`, `datetime`
 - **Visualization:** `matplotlib`, `seaborn`, `yellowbrick` (Elbow Method)
@@ -13,7 +13,7 @@
 	- **Decomposition:** `PCA`
 	- **Clustering:** `KMeans` (for evaluation), `AgglomerativeClustering` (final model)
 
-**📂 Dataset:**
+##  Dataset:
 - **File:** `marketing_campaign.csv`
 - **Format:** Tab-separated values (TSV) — use `sep="\t"` when loading.
 - **Size:** 2,240 records, 29 features
@@ -23,7 +23,7 @@
 	- **Spending:** `MntWines`, `MntMeatProducts`, `MntGoldProds`, etc.
 	- **Engagement:** `NumWebVisitsMonth`, `NumDealsPurchases`, `AcceptedCmp1-5`
 
-**⚙️ Methodology:**
+## Methodology:
 1. **Data Cleaning**
 	 - **Null Handling:** Dropped rows with missing `Income` (24 rows removed).
 	 - **Outlier Removal:** Removed unrealistic values (e.g., `Age > 90`, `Income > 600000`).
@@ -47,7 +47,7 @@
 	 - **Elbow Method:** Used (via `yellowbrick`) to evaluate cluster counts and determine optimal `k=4`.
 	 - **Agglomerative Clustering:** Final model to segment customers into 4 clusters.
 
-**📊 Cluster Profiles & Strategic Insights**
+## Cluster Profiles & Strategic Insights
 - **Cluster 0 — The Established Family** 🧑‍👩‍👧‍👦
 	- **Profile:** Older parents, typically with teenagers. Medium family size (2–4).
 	- **Behavior:** Seek convenience and value.
@@ -110,4 +110,5 @@ python analysis.py
 **📬 Contact**
 - **Name:** Loay Ayman
 - **🔗 LinkedIn:** linkedin.com/in/loayayman 
+
 
