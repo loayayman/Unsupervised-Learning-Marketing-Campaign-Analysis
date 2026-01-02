@@ -97,7 +97,7 @@ python analysis.py
 <img width="789" height="516" alt="Elbow Method to Determine the Number of Clusters to be Formed" src="https://github.com/user-attachments/assets/71de50e8-e810-4342-8655-55e721c81449" />
 
 - **Cluster Profiling:** Boxplots and swarmplots for `Income` vs. spending per cluster.
-<img width="695" height="516" alt="Number of Deals Purchased" src="https://github.com/user-attachments/assets/6a3dd3ea-8c88-4a78-bc33-626ad535e707" />
+<img width="712" height="496" alt="48e35d50-a60d-46cc-b1ab-c8343eef674f" src="https://github.com/user-attachments/assets/5dcb4f19-40fc-44b0-8021-d68c5e9c9518" />
 
 - **Campaign Acceptance:** Countplots showing which clusters accept promotions (AcceptedCmp1–5).
 <img width="704" height="516" alt="Count of Promotions Accepted" src="https://github.com/user-attachments/assets/2feab4e7-d2df-4c84-96a4-ce6a417fdb98" />
@@ -107,6 +107,7 @@ python analysis.py
 **Contact**
 - **Name:** Loay Ayman
 - **🔗 LinkedIn:** linkedin.com/in/loayayman 
+
 
 
 
